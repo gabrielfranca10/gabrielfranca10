@@ -4,7 +4,7 @@
 
 
 ## 🧑‍💻 Sobre mim
-Estudante de **Ciência da Computação** no 1º período da **Cesar School**. Apaixonado por tecnologia, programação e aprendizado contínuo. Atualmente, estou em busca de **oportunidades de estágio** para crescer profissionalmente e contribuir com soluções inovadoras.
+Estudante de **Ciência da Computação** no 2º período da **Cesar School**. Apaixonado por tecnologia, programação e aprendizado contínuo. Atualmente, estou em busca de **oportunidades de estágio** para crescer profissionalmente e contribuir com soluções inovadoras.
 
 ### 🌟 Áreas de Interesse
 - Desenvolvimento de Software
