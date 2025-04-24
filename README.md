@@ -45,11 +45,21 @@
 
 ## ✨ GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrielfranca10&show_icons=true&theme=radical" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=gabrielfranca10&theme=radical&hide_border=false" />
-</p>
+<div align="center">
+
+<a href="https://github.com/gabrielfranca10">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielfranca10&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=20&hide_border=false" />
+</a>
+
+<a href="https://github.com/gabrielfranca10">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielfranca10&theme=radical&hide_border=false&border_radius=20" />
+</a>
+
+<a href="https://github.com/gabrielfranca10">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfranca10&layout=compact&langs_count=7&theme=radical&border_radius=20&hide_border=false" />
+</a>
+
+</div>
 
 ---
 
