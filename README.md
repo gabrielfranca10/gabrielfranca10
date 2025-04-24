@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou <span style="color:#00BFFF;">Gabriel França</span></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Apaixonado+por+Tecnologia+e+Inova%C3%A7%C3%A3o;Buscando+oportunidades+de+est%C3%A1gio!+%F0%9F%92%BC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Apaixonado+por+Tecnologia+e+Inova%C3%A7%C3%A3o;Em+busca+de+est%C3%A1gio+em+TI" alt="Typing SVG" />
 </p>
 
 <p align="center">
