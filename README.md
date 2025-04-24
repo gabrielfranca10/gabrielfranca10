@@ -1,39 +1,81 @@
-# 👋 Olá, eu sou Gabriel França
+<h1 align="center">👋 Olá, eu sou <span style="color:#00BFFF;">Gabriel França</span></h1>
 
-![Foto de perfil](https://mail.google.com/mail/u/0?ui=2&ik=6efe70a3d5&attid=0.1&permmsgid=msg-a:r6881973136941221601&th=192b9b111dd49843&view=fimg&fur=ip&permmsgid=msg-a:r6881973136941221601&sz=s0-l75-ft&attbid=ANGjdJ9iPH2rkoVzxCIoKqTSO4QYnPkRl2We1lse42LbeJIu-9D5jZJnJu3w8lUeAr6zwHEeG8hN0e_22x5OP5apxEVU6tKnoEa04dhg29q1i-wtCP3aiTnZO0VGOvc&disp=emb&realattid=192b9b0f22ab1e002ef1&zw)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Apaixonado+por+Tecnologia+e+Inova%C3%A7%C3%A3o;Buscando+oportunidades+de+est%C3%A1gio!+%F0%9F%92%BC" alt="Typing SVG" />
+</p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
+
+---
 
 ## 🧑‍💻 Sobre mim
-Estudante de **Ciência da Computação** no 2º período da **Cesar School**. Apaixonado por tecnologia, programação e aprendizado contínuo. Atualmente, estou em busca de **oportunidades de estágio** para crescer profissionalmente e contribuir com soluções inovadoras.
 
-### 🌟 Áreas de Interesse
-- Desenvolvimento de Software
-- Ciência de Dados
-- Inteligência Artificial
-- Desenvolvimento Web
-
-### 📬 Contato
-- **E-mail:** [francagabriel285@gmail.com](mailto:francagabriel285@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/seu-perfil](https://www.linkedin.com/in/gabriel-frança-986471307/)  
-- **Telefone:** (81) 99171-0155  
+🎓 Estudante de **Ciência da Computação** – 2º período na **Cesar School**  
+🚀 Sempre em busca de desafios, aprendizado e inovação  
+🎯 Atualmente em busca de **estágio** para colocar a mão na massa!
 
 ---
 
-### ⚡ GitHub Stats
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=radical)  
+## 🌟 Áreas de Interesse
+
+- 💻 Desenvolvimento de Software  
+- 🌐 Desenvolvimento Web  
+- 📊 Ciência de Dados  
+- 🤖 Inteligência Artificial  
 
 ---
 
-### 🌐 Linguagens e Ferramentas
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+## 📬 Contato
+
+📧 **Email:** [francagabriel285@gmail.com](mailto:francagabriel285@gmail.com)  
+📱 **Telefone:** (81) 99171-0155  
+💼 **LinkedIn:** [Gabriel França](https://www.linkedin.com/in/gabriel-frança-986471307/)
 
 ---
 
-### 🚀 Projetos Destacados
-- [Projeto Gerenciamento de treinos](https://github.com/gabrielfranca10/Trabalho_crud/blob/main/Trabalho_crud.py)  
+## 🔧 Linguagens e Ferramentas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,django,tailwind" />
+</p>
 
 ---
 
-Obrigado pela visita! 😊
+## ✨ GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielfranca10&show_icons=true&theme=radical" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=gabrielfranca10&theme=radical&hide_border=false" />
+</p>
+
+---
+
+## 🚀 Projeto em Destaque
+
+### 🏋️‍♂️ [Gerenciamento de Treinos](https://github.com/gabrielfranca10/Trabalho_crud/blob/main/Trabalho_crud.py)
+
+> Uma aplicação simples em Python para CRUD de treinos – explorando fundamentos de programação e estrutura de dados.
+
+---
+
+## 📈 Atividade Recente
+
+<!--START_SECTION:activity-->
+1. 🎉 Repositório atualizado com novo visual em README.md  
+2. ✨ Adição de gráficos interativos e animações  
+3. 📂 Novo projeto em destaque adicionado  
+<!--END_SECTION:activity-->
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="150" />
+</p>
+
+<p align="center">
+  <b>Obrigado pela visita! 😊</b><br/>
+  <i>Vamos criar algo incrível juntos.</i>
+</p>
