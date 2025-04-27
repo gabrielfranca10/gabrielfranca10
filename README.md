@@ -14,7 +14,7 @@
 
 🎓 Estudante de **Ciência da Computação** – 2º período na **Cesar School**  
 🚀 Sempre em busca de desafios, aprendizado e inovação  
-🎯 Atualmente em busca de **estágio** para colocar a mão na massa!
+🎯 Atualmente em busca de **estágio** 
 
 ---
 
