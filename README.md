@@ -71,16 +71,6 @@
 
 ---
 
-## 📈 Atividade Recente
-
-<!--START_SECTION:activity-->
-1. 🎉 Repositório atualizado com novo visual em README.md  
-2. ✨ Adição de gráficos interativos e animações  
-3. 📂 Novo projeto em destaque adicionado  
-<!--END_SECTION:activity-->
-
----
-
 <p align="center">
   <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="150" />
 </p>
