@@ -30,7 +30,6 @@
 ## 📬 Contato
 
 📧 **Email:** [francagabriel285@gmail.com](mailto:francagabriel285@gmail.com)  
-📱 **Telefone:** (81) 99171-0155  
 💼 **LinkedIn:** [Gabriel França](https://www.linkedin.com/in/gabriel-frança-986471307/)
 
 ---
