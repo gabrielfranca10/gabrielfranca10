@@ -12,7 +12,7 @@
 
 ## 🧑‍💻 Sobre mim
 
-🎓 Estudante de **Ciência da Computação** – 3º período na **Cesar School**  
+🎓 Estudante de **Ciência da Computação** – 4º período na **Cesar School**  
 🚀 Sempre em busca de desafios, aprendizado e inovação  
 🎯 Atualmente em busca de **estágio em TI**  
 💡 Curioso e apaixonado por resolver problemas reais com tecnologia  
